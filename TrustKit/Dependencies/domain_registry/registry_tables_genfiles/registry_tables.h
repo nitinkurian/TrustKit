@@ -3009,6 +3009,7 @@ static const struct TrieNode kNodeTable[] = {
   { 14699,  2104,     1, 0 },  /* sa-east-1.amazonaws.com */
   { 14896,  2105,     1, 1 },  /* us-east-1.amazonaws.com */
   { 14712,  2106,     3, 0 },  /* us-east-2.amazonaws.com */
+  { 14952,  2107,     1, 0 },  /* us-west-2.amazonaws.com */
   { 14948,  4035,     1, 0 },  /* dualstack.ap-northeast-1.amazonaws.com */
   { 14948,  4035,     1, 0 },  /* dualstack.ap-northeast-2.amazonaws.com */
   { 11498,     0,     0, 1 },  /* s3.ap-northeast-2.amazonaws.com */
